@@ -1,4 +1,4 @@
-# Google Code-in 2019
----
-# pelurutajam :-)
----
+{
+  "name": "pelurutajam",
+  "print": "Google Code-in",
+}
