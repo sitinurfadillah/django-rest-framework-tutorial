@@ -1,4 +1,3 @@
-{
-  "name": "pelurutajam",
-  "print": "Google Code-in",
-}
+```
+My GCI Username : pelurutajam
+```
