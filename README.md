@@ -1,6 +1,6 @@
 ```java
 {
-  "My GCI Username : "pelurutajam",
+  "My GCI Username": "pelurutajam",
   "title": "Hello, Google Code-in 2019"
 }
 ```
